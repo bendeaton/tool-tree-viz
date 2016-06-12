@@ -14,5 +14,5 @@ A hierarchical tool tree viz ported from [drbunsen.org][1].
 
 * 1.0.0 Initial release
 
-[1]: drbunsen.org
+[1]: http://www.drbunsen.org
 [2]: tool-screenshot.jpg
